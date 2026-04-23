@@ -57,7 +57,7 @@
 先叫3个2，根据对方的叫骰情况，慢慢叫3个2，3个4，4个6等，对方有1个及以上的情况为85.49%，2个及以上的情况也有52.61%，即使叫上5个，也有52.61%的胜率，而且我方经常变骰，对方会以为我方叫假骰，引诱对方开。
 #### 11111
 <img src="https://github.com/joinbu/LiarsDice/blob/master/material/1.png" width="40"/><img src="https://github.com/joinbu/LiarsDice/blob/master/material/1.png" width="40"/><img src="https://github.com/joinbu/LiarsDice/blob/master/material/1.png" width="40"/><img src="https://github.com/joinbu/LiarsDice/blob/master/material/1.png" width="40"/><img src="https://github.com/joinbu/LiarsDice/blob/master/material/1.png" width="40"/>   
-这是纯1豹子，喊不好要自己喝所以要特别谨慎，如果暴露了你是豹子将很被动，不能给对手猜骰的机会，主线策略是引诱对方开，喊3个1和喊4个1 综合被开的概率都为80.38%，喊5个1极易暴露是豹子不是优解，最近策略是假装犹豫喊3个1，示虚推动对方开
+这是纯1豹子，喊不好要自己喝所以要特别谨慎，如果暴露了你是豹子将很被动，不能给对手猜骰的机会，主线策略是引诱对方开，喊3个1和喊4个1 综合被开的概率都为80.38%，喊5个1极易暴露是豹子不是优解，最优策略就是假装犹豫喊3个1，示虚推动对方开
 
 ### 对方先叫骰
 默认对方叫真骰和假骰的概率各为50%   
